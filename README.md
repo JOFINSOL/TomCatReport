@@ -19,7 +19,7 @@ seguidamente el nombre del reporte a ejecutar, notar que se coloca el nombre del
 Paso 2: Componer la cadena (&usuario es el parametro) = (JOSEGUERA es el valor del parametro)
 - Para este caso el proyecto se trabajo solo con variables tipo string ya sea un nombre de cliente, usuario etc.
   o tambien un valor numerico como el ejemplo mostrado "&moneda=1"
-Nota para este ejemplo no se ha contenplado o probado datos de fecha, ya que para el proyecto requerido no fue necesario, de querer utilizarse habria que buscar el modo de convertir las fechas a string en el reporte y pasarle datos string o modificar el codigo fuente.
+  Nota para este ejemplo no se ha contenplado o probado datos de fecha, ya que para el proyecto requerido no fue necesario, de querer utilizarse habria que buscar el modo de convertir las fechas a string en el reporte y pasarle datos string o modificar el codigo fuente.
 
 
 * Test.jasper y Test.jrxml: Son reportes de prueba que sirven para identificar la ubicación correcta donde se deben colocar los demás reportes necesarios. Una vez que el proyecto se compila en un archivo .war, este genera un repositorio donde se colocan la página web, los reportes y las librerías.
